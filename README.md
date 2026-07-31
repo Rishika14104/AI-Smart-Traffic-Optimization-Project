@@ -170,8 +170,10 @@ Run the application:
 ```bash
 streamlit run app.py
 ```
-# Output :
 
+# Output : 
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/ee8d62b0-9fbe-46d7-ad7f-0c6676556d40" />
 
 ---
 
