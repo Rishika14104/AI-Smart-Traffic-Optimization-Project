@@ -1,0 +1,3 @@
+Total Vehicles: 22
+Traffic Density: Low
+Recommendation: Traffic is smooth. No signal adjustment required.
